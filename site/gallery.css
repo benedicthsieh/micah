@@ -1,0 +1,16 @@
+.gallery-content {
+  margin-top: 140px;
+}
+
+.gallery-item {
+  width: 50%;
+  float:left;
+}
+
+.gallery-item img {
+  width: 200px;
+}
+
+.galleryitem-text {
+  float:left;
+}
