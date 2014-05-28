@@ -1,5 +1,5 @@
 #footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   height: 60px;
@@ -7,14 +7,14 @@
 
   text-align:center;
   vertical-align: middle;
-  line-height: 60px;
+  /** line-height: 60px; */
+  /** need this to center but it causes page to overscroll due to adding 60px on bottom. */
 }
-
 #footer a {
   color:gray;
 }
-
 #footer-links {
+  height: 60px;
   text-align: justify;
 }
 #footer-links > span {
@@ -22,6 +22,10 @@
   vertical-align: top;
   text-align: right;
   color:gray;
+
+  padding-top: 22px;  /** hack to center the text. line-height causes page to overscroll */
+
+  overflow:hidden;  /** double-check that it's ok to hide copyright */
 
   /* IE fix */
   *display: inline;
@@ -33,19 +37,31 @@
   display: inline-block;
 }
 
+@media (max-width: 460px) {
+  #footer {
+    height:initial;
+    position: initial;
+  }
+  #footer-links {
+    height:initial;
+  }
+  #footer-links > span {
+    display:block;
+    text-align: center;
+  }
+}
 
-
+body {
+  background-color: transparent;
+}
 #title {
   top: 200px;
   left: 0;
   width: 100%;
 }
-
-
 #title-block {
-  position:absolute;
-  top: 40px;
-  left: 20%;
+  margin-top: 40px;
+  margin-left: 20%;
   width:50%;
 }
 #spaced-title {
@@ -71,7 +87,6 @@
   text-align: justify;
 }
 #right-justify-title  > span {
-  width: 4%;
   display:inline-block;
   vertical-align: top;
   text-align: right;

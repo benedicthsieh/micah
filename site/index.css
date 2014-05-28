@@ -9,3 +9,7 @@ html {
 #title-block {
   color:white;
 }
+#index-spacer {
+  height: 200px;
+  /** maybe put this under a media query */
+}
