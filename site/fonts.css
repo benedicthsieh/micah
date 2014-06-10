@@ -1,0 +1,284 @@
+
+
+/*NAVIGATION TYPE------------------------------*/
+.nav-type {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #949499;
+}
+
+/*COPYRIGHT TYPE------------------------------*/
+.copyright-type {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 10px;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  color: #adabab;
+}
+
+
+
+
+
+/*[PASTRY PAGE]------------------------------*/
+
+/*PASTRY SET TITLE TYPE------------------------------*/
+.gallery-title-type {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 21px;
+  font-style: normal;
+  letter-spacing: 0em;
+  text-transform: uppercase;
+  color: #36302E;
+}
+
+/*PASTRY SET DESCRIP TYPE------------------------------*/
+.gallery-desc-type {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  line-height: 15px;
+  color: #949499;
+}
+
+/*PRESS QUOTE TYPE------------------------------*/
+.gallery-quote-type {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 19px;
+  font-style: normal;
+  letter-spacing: 0em;
+  color: #949499;
+}
+
+/*PRESS ATTRIBUTION TYPE------------------------------*/
+.gallery-press-attr-type {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: italic;
+  letter-spacing: 0em;
+  color: #ADABAB;
+}
+
+
+
+
+
+/*[PASTRY GALLERY PAGE]------------------------------*/
+
+/*IMAGE TITLE TYPE------------------------------*/
+h6{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 22px;
+font-style: normal;
+letter-spacing: 0em;
+text-transform: uppercase;
+color: #36302E;
+}
+
+/*IMAGE DESCRIP TYPE------------------------------*/
+h7{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #949499;
+}
+
+/*BACK TO PASTRY TYPE------------------------------*/
+h8{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 12px;
+font-style: normal;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #ADABAB;
+}
+
+
+
+
+
+/*[CARPENTRY PAGE]------------------------------*/
+
+/*COMMISSION TYPE------------------------------*/
+h9{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 11px;
+font-style: normal;
+letter-spacing: 0.1em;
+/*font-variant: small-caps;*/
+color: #D1D4D4;
+}
+
+
+
+
+
+/*[ABOUT PAGE]------------------------------*/
+
+/*BIO TYPE------------------------------*/
+h10{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: normal;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #949499;
+}
+
+/*EMPLOYER TYPE------------------------------*/
+h11{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 16px;
+font-style: normal;
+letter-spacing: 0em;
+text-transform: uppercase;
+color: #36302E;
+}
+
+/*POSITION TYPE------------------------------*/
+h12{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 11px;
+font-style: normal;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #949499;
+}
+
+/*NAVIGATION-CURRENT PAGE TYPE------------------------------*/
+h13{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: normal;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #36302E;
+}
+
+
+
+
+
+/*[CONTACT PAGE]------------------------------*/
+
+/*CONTACT TYPE------------------------------*/
+h14{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: normal;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #36302E;
+}
+
+/*FOR TYPE------------------------------*/
+h15{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 16px;
+font-style: normal;
+letter-spacing: 0em;
+color: #949499;
+}
+
+/*SERVICE TYPE------------------------------*/
+h16{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 16px;
+font-style: normal;
+letter-spacing: 0em;
+color: #36302E;
+}
+
+/*REP TYPE------------------------------*/
+h17{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 11px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #949499;
+}
+
+
+
+
+
+/*[SOUND PAGE]------------------------------*/
+
+/*SOUND TITLE TYPE------------------------------*/
+h18{
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 21px;
+font-style: normal;
+letter-spacing: 0.05em;
+color: #36302E;
+}
+
+/*SOUND DESCRIP TYPE------------------------------*/
+h19{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #949499;
+}
+
+/*PLAY TYPE------------------------------*/
+h20{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #4F4A47;
+}
+
+/*/ PAUSE TYPE------------------------------*/
+h21{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #ADABAB;
+}
+
+/*PREVIOUS NEXT TYPE------------------------------*/
+h22{
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+font-style: italic;
+letter-spacing: 0.1em;
+line-height: 15px;
+color: #4F4A47;
+}
